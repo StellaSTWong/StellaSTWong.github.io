@@ -1,0 +1,21 @@
+<header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      {{ partial "logo.html" . }}
+    </div>
+    {{ if len $.Site.Menus }}
+      {{ partial "mobile-menu.html" . }}
+    {{ end }}
+    {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
+      {{ partial "language-menu.html" . }}
+    {{ end }}
+  </div>
+  <div class="header_subtitle">
+    <span>Human Rights; Workers' Rights; Social & Environmental Justice; Europe & Asia</span>
+  </div>
+  {{ if len $.Site.Menus }}
+    {{ partial "menu.html" . }}
+<div class="header_division_line"></div>
+  {{ end }}
+  
+</header>
