@@ -15,7 +15,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -74,10 +74,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "My little blog"
+    title = "Stella S.T. Wong | My li'l space"
 
     [languages.en.params]
-      subtitle = "My little blog"
+      subtitle = "A li'l space for my thoughts and learnings"
       owner = ""
       keywords = ""
       copyright = ""
@@ -92,7 +92,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Stella S.T. Wong"
+        logoText = "Stella Shu Ting Wong"
         logoHomeLink = "/"
 
       [languages.en.menu]
@@ -100,10 +100,18 @@ pagination.pagerSize = 5
           identifier = "about"
           name = "About"
           url = "/about"
+#        [[languages.en.menu.main]]
+#          identifier = "blog"
+#         name = "Blog"
+#          url = "/blog"
         [[languages.en.menu.main]]
-          identifier = "blog"
-          name = "Blog"
-          url = "/blog"
+          identifier = "community"
+          name = "Community"
+          url = "/community"
+#        [[languages.en.menu.main]]
+#          identifier = "craic"
+#          name = "Craic"
+#          url = "/craic"
 
 [caches]
   [caches.images]
