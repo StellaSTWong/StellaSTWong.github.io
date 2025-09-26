@@ -4,14 +4,21 @@
     background-repeat: repeat-x;
     background-size: auto 100%;
     width: 100%;
-    height: 20px
+    height: 20px ;
 }
 
 .header_subtitle {
     font-size:small ;
-    color:#107b0e
+    color:#107b0e ;
 }
 
 .copyright_custom {
     font-size:xx-small ;
+}
+
+.post_image {
+    width:70% ;
+    font-size: 80% ;
+    margin-left: auto;
+    margin-right: auto;
 }
