@@ -1,5 +1,5 @@
 +++
-title = 'A global community: GNHRE'
+title = 'Global community: GNHRE'
 showFullContent = false
 
 +++
@@ -8,9 +8,7 @@ showFullContent = false
 ## Global Network for Human Rights and the Environment (GNHRE) ([web](https://gnhre.org/))
 
 ### Upcoming Event
-+ Tune in for our webinar "[Climate Justice at the ICJ: Human Rights Implications of the Advisory Opinion](https://gnhre.org/?p=18433)" on 29th September 2025!
-
-![We've got an amazing panel lined up. (Poster designed by me)](/Community/images/Final_GNHREwebinarICJ_poster.png "Poster designed by Stella S.T. Wong")
++ Tune in for our webinar "[Climate Justice at the ICJ: Human Rights Implications of the Advisory Opinion](https://gnhre.org/?p=18433)" on 29th September 2025! We've got an amazing panel lined up, including the *UN Special Rapporteur on the human right to a clean, healthy and sustainable environment* and more.
 
 ### Policy & Engagement
 As a **Member of the Policy & Outreach Committee** at GNHRE (on a pro bono/voluntary basis), I have collaborated with scholars, researchers, and other network members to contribute to submissions to various UN bodies and mechanisms:

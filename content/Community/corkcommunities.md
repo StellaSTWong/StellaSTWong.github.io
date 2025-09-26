@@ -1,19 +1,17 @@
 +++
-title = 'Local places & initiatives for sustainable development & living in Cork, Ireland'
+title = 'CORK: Local places & initiatives for sustainable development & living'
 showFullContent = false
 
 +++
 
-Not sure where to start with sustainable living? Here are some selected places and community projects in and around Cork that I find interesting. Hope this list gives you some ideas to get started! (And it is by no means exhaustive.)
+Not sure where to start with sustainable living? Here are some selected places and community projects in and around Cork that I'm either involved in or, if not, curious to explore. Hope this list gives you some ideas to get started! (And it is by no means exhaustive.)
 
 
 ### As friends of nature
 
 + **Nature Network Ireland** ([web](https://naturenetworkireland.ie/)): They're doing some great community-based nature conservation and education projects in and around Cork City and beyond. For example, I've been volunteering for [the Beaumont Quarry project](https://naturenetworkireland.ie/what-we-do/restoring-nature/beaumont-quarry/), which is about regenerating and conserving the limestone quarry-turned wildlife area. (Keep an eye out for bats and foxes!)
 
-![Scything & clean-up at Beaumont Quarry](/Community/images/BeaumontQuarry.jpg "Beaumont Quarry")
-
-+ **Community gardens**:  I was gifted a tomato plant by a community garden this year and it yielded juicy, bright red tomatoes in the backyard! Fancy volunteering for or visiting a local community garden? It's a great way to get to know our neighbours too. Here's a [map](https://corkhealthycities.com/greenspacesforhealth/cork-community-network-map/ "Cork Community Gardens Network Map 2025 by Cork Healthy Cities") showing where you can find these gardens in Cork. It appears there are at least **25** community gardens in the city.
++ **Community gardens**:  I was gifted a tomato plant by a community garden this year and it yielded juicy, bright red tomatoes in the backyard! It's a great way to get to know our neighbours too. Fancy volunteering for or visiting a local community garden? Here's a [map](https://corkhealthycities.com/greenspacesforhealth/cork-community-network-map/ "Cork Community Gardens Network Map 2025 by Cork Healthy Cities") showing where you can find these gardens in Cork. It appears there are at least **25** community gardens in the city.
 
 + **Cork Healthy Cities/ Green Spaces for Health** ([web](https://corkhealthycities.com/greenspacesforhealth/)): Green Spaces for Health is an interesting initiative comprising a number of community-based green space projects. For instance, they have transformed a former cemetery into a small public park called Parkowen in South Parish ([map](https://maps.app.goo.gl/u51LGaSjsh4tjYEGA)). Having visited the site, it's lovely to see first-hand the efforts made to rewild and revive the area with different species of plant. They welcome volunteers, too.
 
