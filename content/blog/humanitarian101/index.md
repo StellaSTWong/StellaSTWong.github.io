@@ -7,16 +7,16 @@ tags = ["Humanitarian_ response", "Intl_humanitarian_law", "SPHERE/CHS", "Busine
 draft = false
 +++
 
-With conflicts taking place every day not very far from home, I have decided to write this post to organise and share some essential resources on the *basics* of international humanitarian law, operational standards for humanitarian responses, and relevant Business & Human Rights responsibilities. Most of them are free and accessible to the public.
+With conflicts taking place every day not very far from home, I have decided to write this post to organise and share some essential resources on the *basics* of international humanitarian law, operational standards for humanitarian response, and relevant Business & Human Rights responsibilities. Most of them are free and accessible to the public.
 
 # Core Humanitarian Standard (CHS) on Quality and Accountability
 
-**The Core Humanitarian Standards on Quality and Accountability (CHS)** ([web](https://www.corehumanitarianstandard.org/)) is a widely recognised standard governing humanitarian action, published by the CHS Alliance, Group URD and Sphere Association. The CHS (updated in 2024) outlines nine commitments and core elements of an accountable and quality humanitarian response. It should be used in conjunction with **[the Sphere Handbook](https://spherestandards.org/handbook-2018/)** (2018).
+**The Core Humanitarian Standard on Quality and Accountability (CHS)** ([web](https://www.corehumanitarianstandard.org/)) is a widely recognised standard governing humanitarian action, published by the CHS Alliance, Group URD and Sphere Association. The CHS (updated in 2024) outlines nine commitments and core elements of an accountable and quality humanitarian response. It should be used in conjunction with **[the Sphere Handbook](https://spherestandards.org/handbook-2018/)** (2018).
 
 {{< figure
-  src="Flower-EN.png"
-  alt="The Core Humanitarian Standards (2024)"
-  caption="The Core Humanitarian Standards 2024 [(Source: Kaya/ CHS Website)](https://kayaconnect.org/)"
+  src="CoreHumanitarianStandard-EN.png"
+  alt="The Core Humanitarian Standard (2024)"
+  caption="The Core Humanitarian Standard 2024 (Source: [CHS Website](https://www.corehumanitarianstandard.org/the-standard))"
   attr=""
   attrlink=""
   class="post_image"
@@ -91,7 +91,7 @@ I have studied international law before, both at undergraduate and post-graduate
 
 The [United Nations Guiding Principles on Business and Human Rights (UNGPs)](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf) provide a normative framework that guides state duties and business responsibilities with respect to human rights.
  > The Commentary to Principle 12 of the UNGPs: *[I]n situations of armed conflict, enterprises should **respect the standards of international humanitarian law**.*
- > 
+ 
  > Principle 7 of the UNGPs: *Because **the risk of gross human rights abuses is heightened** in conflict-affected areas, States should help ensure that business enterprises operating in those contexts are not involved with such abuses, including by... **[e]nsuring that their current policies, legislation, regulations and enforcement measures are effective** in addressing the risk of business involvement in gross human rights abuses.*
 
 ### Resources
