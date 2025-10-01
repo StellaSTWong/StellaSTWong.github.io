@@ -46,7 +46,7 @@ Despite the importance of the topic, the abovementioned report by RRI and McGill
 
 # What would justice look like in this context? 
 
-Carbon-related projects are very likely here to stay. In my humble opinion, carbon justice means that all such projects must respect human rights and treat all rights holders equally, particularly marginalised groups such as indigenous peoples. This is just the floor, not the ceiling. 
+Carbon-related projects are very likely here to stay. In my humble opinion, carbon justice means that all such projects must respect human rights and treat all rights holders equally, particularly marginalised groups such as Indigenous Peoples. This is just the floor, not the ceiling. 
 
 More crucial criteria have been suggested and articulated in the *Carbon Justice Principles of the Grassroots Justice Network* and the *Climate Justice Principles of the Mary Robinson Foundation*.
 
