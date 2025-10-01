@@ -14,9 +14,11 @@ With conflicts taking place every day not very far from home, I have decided to 
 **The Core Humanitarian Standards on Quality and Accountability (CHS)** ([web](https://www.corehumanitarianstandard.org/)) is a widely recognised standard governing humanitarian action, published by the CHS Alliance, Group URD and Sphere Association. The CHS (updated in 2024) outlines nine commitments and core elements of an accountable and quality humanitarian response. It should be used in conjunction with **[the Sphere Handbook](https://spherestandards.org/handbook-2018/)** (2018).
 
 {{< figure
-  src="https://kayaconnect.org/pluginfile.php/1481759/course/section/65878/Flower-EN.png"
+  src="Flower-EN.png"
   alt="The Core Humanitarian Standards (2024)"
-  caption="The Core Humanitarian Standards 2024 (Source: Kaya/ CHS Website)"
+  caption="The Core Humanitarian Standards 2024 [(Source: Kaya/ CHS Website)](https://kayaconnect.org/)"
+  attr=""
+  attrlink=""
   class="post_image"
 >}}
 
