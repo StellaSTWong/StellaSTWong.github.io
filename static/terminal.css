@@ -328,18 +328,21 @@ mark {
 
 blockquote {
   position: relative;
-  border-top: 1px solid var(--accent);
-  border-bottom: 1px solid var(--accent);
+  border-width: 0 0 0 4px;
+  border-style: dotted;
+  border-color: var(--accent);
   margin: 0;
-  padding: 25px;
+  padding: 25px 25px 25px 45px;
+  background-color: #ffffef;
 }
 
 blockquote:before {
   content: ">";
   display: block;
   position: absolute;
-  left: 0;
+  left: 13px;
   color: var(--accent);
+  font-weight: bold;
 }
 
 blockquote p:first-child {
