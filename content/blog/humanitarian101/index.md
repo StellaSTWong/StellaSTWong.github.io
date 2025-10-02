@@ -37,13 +37,14 @@ I mentioned the Sphere Handbook ([interactive version](https://handbook.spherest
 
 ### Training resources
 + [online training courses on the Sphere Handbook](https://get.disasterready.org/sphere-handbook-humanitarian-charter/) offered by *disasterready.org*
-+ [short online course "Sphere in Practice"](https://kayaconnect.org/course/view.php?id=3387) offered by *Kaya* 
++ [short online course "Sphere in Practice"](https://kayaconnect.org/course/view.php?id=3387) developed by *Sphere* and available on *Kaya* 
++ [more relevant online courses](https://spherestandards.org/online-courses/) offered by *Sphere*
 
 # International Humanitarian Law (IHL)
 
 I have studied international law before, both at undergraduate and post-graduate levels. International humanitarian law, alongside human rights law, is always something interesting to me.
 
-+ IHL is **jus in bello**, also known as the law of war or armed conflict (cf. jus ad bellum).
++ IHL is **jus in bello**, also known as the law of war or armed conflict.
 + It's a set of rules that aims to **limit the effects of armed conflict**.
 + It applies regardless of the reason or justification for resorting to armed conflict or war.
 + The sources of IHL include treaty law and customary law.
