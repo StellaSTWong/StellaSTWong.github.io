@@ -1,9 +1,9 @@
 +++
 date = '2025-09-30T13:55:57+01:00'
 author = "Stella S.T. Wong"
-title = 'Humanitarian 101: Accessible resources on IHL + humanitarian standards + the connection with Business & Human Rights'
+title = 'Humanitarian 101: Accessible resources on IHL + humanitarian standards + links to climate change + Business & Human Rights'
 showFullContent = false
-tags = ["Humanitarian_ response", "Intl_humanitarian_law", "SPHERE/CHS", "Business_HumanRights"]
+tags = ["Humanitarian_ response", "Intl_humanitarian_law", "SPHERE/CHS", "climate_change", "Business_HumanRights"]
 draft = false
 +++
 
@@ -86,6 +86,28 @@ I have studied international law before, both at undergraduate and post-graduate
     + 2 elements: (1) sufficiently widespread, representative and consistent **state practice** (accepted it as law and relied on it); and (2) **opinio juris** (a belief that there's a legal obligation)
     + 161 core rules of customary IHL (year 2005)
 ]: # 
+
+# Intersection of humanitarian action and the climate crisis
+
+As the climate crisis worsens, the risks and impacts of extreme weather events on people and local communities are increasing, particularly for [vulnerable groups](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003190516-13/consequences-climate-change-vulnerable-populations-richa-sharma-srikanth). This poses more challenges for humanitarian action, from supporting locally led adaptation and disaster risk reduction to building community resilience. Taking climate considerations into account in humanitarian action is now more crucial than ever.
+
+The [Climate and Environment Charter for Humanitarian Organisations](https://www.climate-charter.org/) is an initiative launched in 2021 that aims to provide a framework of seven commitments to guide humanitarian organisations in the context of the climate crisis.
+
+{{< figure
+  src="ClimateCharter_humanitarian.png"
+  alt="The Climate and Environment Charter for Humanitarian Organisations"
+  caption="The Climate and Environment Charter for Humanitarian Organisations (Source: [The Climate Charter Website](https://www.climate-charter.org/))"
+  attr=""
+  attrlink=""
+  class="post_image"
+>}}
+
+### Resources
+
++ I’ve found some fascinating resources from the [*Red Cross Red Crescent Climate Centre*](https://www.climatecentre.org/), which is hosted by the Dutch Red Cross in The Hague. These include the [Climate Training Kit](https://ctk.climatecentre.org/training/introduction), which is accompanied by an [online course](https://www.climatecentre.org/training/) on the IFRC learning platform (registration required), as well as a [curriculum for young people and children](https://weadapt.org/knowledge-base/y-adapt/) through the Y-Adapt programme. There's also a [Climate Guide](https://www.climatecentre.org/wp-content/uploads/RCRC_climateguide.pdf) for those who prefer a written handbook.
++ The [Climate and Environment Charter for Humanitarian Organisations](https://www.climate-charter.org/), along with the relevant tools and [guidance](https://www.climate-charter.org/guidance/), covering topics ranging from [disaster risk reduction](https://www.climate-charter.org/guidance-themes/disaster-risk-reduction/) and [environmental sustainability](https://www.climate-charter.org/guidance-themes/environmental-sustainability/) to [nature- & ecosystem-based solutions](https://www.climate-charter.org/guidance-themes/nature-and-ecosystem-based-solutions/), as well as [indigenous & local knowledge](https://www.climate-charter.org/guidance-themes/indigenous-and-local-knowledge/).
++ 
+
 
 # Nexus between conflict, human rights and the role/responsibility of business
 
