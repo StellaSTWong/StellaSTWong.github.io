@@ -47,7 +47,7 @@ I have studied international law before, both at undergraduate and post-graduate
 + It's a set of rules that aims to **limit the effects of armed conflict**.
 + It applies regardless of the reason or justification for resorting to armed conflict or war.
 + The sources of IHL include treaty law and customary law.
-+ The main IHL treaties are the **four Geneva Conventions of 1949** and the two **Additional Protocols of 1979** (together containing almost 600 articles).
++ The main IHL treaties include (but are not limited to) the **four Geneva Conventions of 1949** and the two **Additional Protocols of 1977**, together containing almost 600 articles.
 + ICRC's 2005 study also identified **161 rules of customary IHL** ([Full text](https://www.icrc.org/sites/default/files/external/doc/en/assets/files/other/customary-international-humanitarian-law-i-icrc-eng.pdf)).
 
 ### Resources on IHL: databases and introdutory training
