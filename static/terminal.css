@@ -46,11 +46,15 @@ body {
 h1 {
   font-size: calc(var(--font-size) * 1.45);
   letter-spacing: 0;
+  text-decoration: wavy underline	#FAFA33;
+  text-underline-offset: auto;
 }
 
 h2 {
   font-size: calc(var(--font-size) * 1.35);
   letter-spacing: 0;
+  text-decoration: wavy underline	#FAFA33;
+  text-underline-offset: auto;
 }
 
 h3 {
