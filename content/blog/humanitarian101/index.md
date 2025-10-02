@@ -1,7 +1,7 @@
 +++
 date = '2025-09-30T13:55:57+01:00'
 author = "Stella S.T. Wong"
-title = 'Humanitarian 101: Accessible resources on IHL + humanitarian standards + links to climate change + Business & Human Rights'
+title = 'Humanitarian 101: accessible resources on IHL + humanitarian standards + connections with climate change and Business & Human Rights'
 showFullContent = false
 tags = ["Humanitarian_ response", "Intl_humanitarian_law", "SPHERE/CHS", "climate_change", "Business_HumanRights"]
 draft = false
