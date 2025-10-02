@@ -3,15 +3,15 @@ date = '2025-09-30T13:55:57+01:00'
 author = "Stella S.T. Wong"
 title = 'Humanitarian 101: accessible resources on IHL + humanitarian standards + connections with climate change and Business & Human Rights'
 showFullContent = false
-tags = ["Humanitarian_ response", "Intl_humanitarian_law", "SPHERE/CHS", "climate_change", "Business_HumanRights"]
+tags = ["Humanitarian_action", "Intl_humanitarian_law", "SPHERE/CHS", "climate_change", "Business_HumanRights"]
 draft = false
 +++
 
-With conflicts taking place every day not very far from home, I have decided to write this post to organise and share some essential resources on the *basics* of international humanitarian law, operational standards for humanitarian response, and relevant Business & Human Rights responsibilities. Most of them are free and accessible to the public.
+With conflicts taking place every day not very far from home, I have decided to write this post to organise and share some resources on the *basics* of international humanitarian law, common standards for humanitarian action, and the connections with climate change and Business & Human Rights. Most of them are free and accessible to the public.
 
 # Core Humanitarian Standard (CHS) on Quality and Accountability
 
-**The Core Humanitarian Standard on Quality and Accountability (CHS)** ([web](https://www.corehumanitarianstandard.org/)) is a widely recognised standard governing humanitarian action, published by the CHS Alliance, Group URD and Sphere Association. The CHS (updated in 2024) outlines nine commitments and core elements of an accountable and quality humanitarian response. It should be used in conjunction with **[the Sphere Handbook](https://spherestandards.org/handbook-2018/)** (2018).
+**The Core Humanitarian Standard on Quality and Accountability (CHS)** ([web](https://www.corehumanitarianstandard.org/)) is a widely recognised standard governing humanitarian action, published by the CHS Alliance, Group URD and Sphere Association. The CHS (updated in 2024) outlines nine commitments and core elements of an accountable and quality humanitarian action. It should be used in conjunction with **[the Sphere Handbook](https://spherestandards.org/handbook-2018/)** (2018).
 
 {{< figure
   src="CoreHumanitarianStandard-EN.png"
@@ -29,7 +29,7 @@ Under each commitment, there are detailed requirements. The full text (available
 
 # SPHERE Handbook (2018 edition)
 
-I mentioned the Sphere Handbook ([interactive version](https://handbook.spherestandards.org/en/sphere/#ch001)) above. It is a comprehensive handbook for humanitarian action. It comprises **the Humanitarian Charter**, **the Protection Principles** and **minimum humanitarian standards** (note the Core Humanitarian Standard 2024). It covers four important areas of humanitarian response:
+I mentioned the Sphere Handbook ([interactive version](https://handbook.spherestandards.org/en/sphere/#ch001)) above. It is a comprehensive handbook for humanitarian action. It comprises **the Humanitarian Charter**, **the Protection Principles** and **minimum humanitarian standards** (note the Core Humanitarian Standard 2024). It covers four important areas of humanitarian action:
 + water supply, sanitation and hygiene promotion (WASH)
 + food security and nutrition
 + shelter and settlement
@@ -37,7 +37,7 @@ I mentioned the Sphere Handbook ([interactive version](https://handbook.spherest
 
 ### Training resources
 + [online training courses on the Sphere Handbook](https://get.disasterready.org/sphere-handbook-humanitarian-charter/) offered by *disasterready.org*
-+ [short online course "Sphere in Practice"](https://kayaconnect.org/course/view.php?id=3387) developed by *Sphere* and available on *Kaya* 
++ [online course "Sphere in Practice"](https://kayaconnect.org/course/view.php?id=3387) developed by *Sphere* and available on *Kaya* 
 + [more relevant online courses](https://spherestandards.org/online-courses/) offered by *Sphere*
 
 # International Humanitarian Law (IHL)
