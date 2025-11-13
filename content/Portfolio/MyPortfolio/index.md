@@ -61,7 +61,7 @@ I facilitate awareness-raising and (informal) educational programmes and events.
 {{< figure
   src="FINAL_GNHREwebinarICJ_poster.png"
   alt="Poster for the event"
-  caption="I coordinated the communication and outreach efforts with other partner organisations. I also designed the poster for the event."
+  caption="I contributed to the communication and outreach efforts. I also designed the poster for the event."
   class="post_image"
 >}}
 
