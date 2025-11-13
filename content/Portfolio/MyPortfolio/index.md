@@ -1,0 +1,68 @@
++++
+draft = false
+showFullContent = true
+title = 'What I do (and have done)'
++++
+
+# Capacity Building & Knowledge Exchange
+
+I develop and deliver training on human rights-related topics. I am also keen to learn from others, whether through informal discussions or at conferences.
+
+**Example: Speaking on a panel at the Annual International Conference of the Royal Geographical Society (with the Institute of British Geographers) 2021**
+
+{{< figure
+  src="RGS-AnnualConference2021.jpg"
+  alt="RGS Annual Conference 2021"
+  caption="Prof. Bill Taylor and I shared our research findings on how non-legal instruments were used by different actors, including trade unions, to seek redress for labour rights violations in Cambodia and Vietnam, and on how these instruments interacted with laws. (Picture: poster for the panel)"
+  class="post_image"
+>}}
+
+**Example: Knowledge exchange, brainstorming and strategising in relation to responsible investment/Business & Human Rights in the extractive industries in Southeast Asia and East Asia back in 2018**
+
+{{< figure
+  src="OxfamEIWorkshop2019.png"
+  alt="While working for Oxfam, I participated in the Asia Regional Extractive Industries Learning and Strategy Workshop in Siem Reap, Cambodia in March 2018."
+  caption="While working for Oxfam, I participated in the Asia Regional Extractive Industries Learning and Strategy Workshop in Siem Reap, Cambodia in March 2018. I was grateful for the opportunity to interact with and learn from a few Indigenous community members from Ratanakiri province of Cambodia, among others. It's a very humbling experience. (Picture: screenshot of [Oxfam's website](https://cambodia.oxfam.org/latest/blogs/way-forward-extractive-industries-asia))"
+  class="post_image"
+>}}
+
+**Example: Content development for the course "Child and Forced Labour Prevention" for EcoVadis's online [academy](https://support.ecovadis.com/hc/en-us/articles/4408733173266-What-is-included-in-the-EcoVadis-Academy)** - The training is aimed at companies and their business partners. Unfortunately, due to the private nature of the Academy, I am unable to share the curriculum or content here.
+
+# Research & Writing
+
+I have conducted research and written about human rights and labour rights while working in various settings.
+
+**Example: Conference paper on "Voluntary codes and the impact on human rights and labour rights" presented at the Global Business & Human Rights Scholars Association Annual Conference 2019** ([Link to the abstract](https://scholars.cityu.edu.hk/en/publications/voluntary-codes-and-the-impact-on-human-rights-amp-labour-rights/))
+
+{{< figure
+  src="Abstract_VoluntaryCodes-ConfPaper.png"
+  alt="Abstract of the conference paper"
+  caption="Abstract of the conference paper (Picture: screenshot of [City University of Hong Kong's website](https://scholars.cityu.edu.hk/en/publications/voluntary-codes-and-the-impact-on-human-rights-amp-labour-rights/))"
+  class="post_image"
+>}}
+
+
+**Example: Policy submissions to various UN bodies and mechanisms on topics including [just transition and human rights](https://www.ohchr.org/sites/default/files/documents/issues/ohchr-cfis/transition/subm-just-transition-hr-cso-global-ne-gnhre-nhre.pdf) as well as [democracy and climate change](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/forums/forum-demoracy-ruleoflaw/2025/subm-5-session-forum-non-orga-4-global-gnhre-nhre.pdf)**
+
+{{< figure
+  src="Extract_Submission-DemoCC.png"
+  alt="Extract from the submission on democracy and climate change"
+  caption="Extract from the submission on democracy and climate change"
+  class="post_image"
+>}}
+
+
+# Public Awareness/Education (and visual communication)
+
+I facilitate awareness-raising and (informal) educational programmes and events. I also develop visual communication materials, such as posters.
+
+**Example: Public webinar on the human rights implications of the International Court of Justice's Advisory Opinion on climate change**
+
+{{< figure
+  src="FINAL_GNHREwebinarICJ_poster.png"
+  alt="Poster for the event"
+  caption="I designed the poster for the event."
+  class="post_image"
+>}}
+
+

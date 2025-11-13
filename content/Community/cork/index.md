@@ -1,6 +1,6 @@
 +++
 title = 'CORK: Local places & initiatives for sustainable development & living'
-showFullContent = false
+showFullContent = true
 
 +++
 
@@ -18,7 +18,14 @@ Not sure where to start with sustainable living? Here are some selected places a
   class="post_image"
 >}}
 
-+ **Community gardens**:  I was gifted a tomato plant by a community garden this year and it yielded juicy, bright red tomatoes in the backyard! It's a great way to get to know our neighbours too. Fancy volunteering for or visiting a local community garden? Here's a [map](https://corkhealthycities.com/greenspacesforhealth/cork-community-network-map/ "Cork Community Gardens Network Map 2025 by Cork Healthy Cities") showing where you can find these gardens in Cork. It appears there are at least **25** community gardens in the city.
++ **Community gardens**: A community garden is like a little oasis in the neighbourhood. Getting involved in one is also a great way to get to know our neighbours. Fancy volunteering for or visiting a local community garden? Here's a [map](https://corkhealthycities.com/greenspacesforhealth/cork-community-network-map/ "Cork Community Gardens Network Map 2025 by Cork Healthy Cities") showing where you can find these gardens in Cork. It appears there are at least **25** community gardens in the city.
+
+{{< figure
+  src="tomatoplant_communitygarden.jpg"
+  alt="We were gifted a tomato plant by a community garden earlier this year and it yielded juicy, bright red tomatoes in the backyard!"
+  caption="We were gifted a tomato plant by a community garden earlier this year and it yielded juicy, bright red tomatoes in the backyard!"
+  class="post_image"
+>}}
 
 + **Cork Healthy Cities/ Green Spaces for Health** ([web](https://corkhealthycities.com/greenspacesforhealth/)): Green Spaces for Health is an interesting initiative comprising a number of community-based green space projects. For instance, they have transformed a former cemetery into a small public park called Parkowen in South Parish ([map](https://maps.app.goo.gl/u51LGaSjsh4tjYEGA)). Having visited the site, it's lovely to see first-hand the efforts made to rewild and revive the area with different species of plant. They welcome volunteers, too.
 

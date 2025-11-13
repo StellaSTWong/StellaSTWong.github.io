@@ -1,7 +1,7 @@
 +++
 title = 'Global community: GNHRE'
 showFullContent = false
-
+draft = true
 +++
 
 
