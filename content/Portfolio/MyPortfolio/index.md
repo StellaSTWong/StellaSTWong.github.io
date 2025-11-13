@@ -17,7 +17,7 @@ I develop and deliver training on human rights-related topics. I am also keen to
   class="post_image"
 >}}
 
-**Example: Knowledge exchange, brainstorming and strategising in relation to responsible investment/Business & Human Rights in the extractive industries in Southeast Asia and East Asia back in 2018**
+**Example: Knowledge exchange, brainstorming and strategising in relation to responsible investment/ Business & Human Rights in the extractive industries in Southeast Asia and East Asia back in 2018**
 
 {{< figure
   src="OxfamEIWorkshop2019.png"
@@ -37,17 +37,17 @@ I have conducted research and written about human rights and labour rights while
 {{< figure
   src="Abstract_VoluntaryCodes-ConfPaper.png"
   alt="Abstract of the conference paper"
-  caption="Abstract of the conference paper (Picture: screenshot of [City University of Hong Kong's website](https://scholars.cityu.edu.hk/en/publications/voluntary-codes-and-the-impact-on-human-rights-amp-labour-rights/))"
+  caption="As research assistant for the project *Business, Human Rights, and State Capacity to Regulate*, I conducted research and authored this conference paper with Prof. Bill Taylor. (Picture: Abstract of the conference paper - screenshot of [City University of Hong Kong's website](https://scholars.cityu.edu.hk/en/publications/voluntary-codes-and-the-impact-on-human-rights-amp-labour-rights/))"
   class="post_image"
 >}}
 
 
-**Example: Policy submissions to various UN bodies and mechanisms on topics including [just transition and human rights](https://www.ohchr.org/sites/default/files/documents/issues/ohchr-cfis/transition/subm-just-transition-hr-cso-global-ne-gnhre-nhre.pdf) as well as [democracy and climate change](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/forums/forum-demoracy-ruleoflaw/2025/subm-5-session-forum-non-orga-4-global-gnhre-nhre.pdf)**
+**Example: Policy submissions to UN bodies and mechanisms on topics including [just transition and human rights](https://www.ohchr.org/sites/default/files/documents/issues/ohchr-cfis/transition/subm-just-transition-hr-cso-global-ne-gnhre-nhre.pdf) as well as [democracy and climate change](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/forums/forum-demoracy-ruleoflaw/2025/subm-5-session-forum-non-orga-4-global-gnhre-nhre.pdf)**
 
 {{< figure
   src="Extract_Submission-DemoCC.png"
   alt="Extract from the submission on democracy and climate change"
-  caption="Extract from the submission on democracy and climate change"
+  caption="(Picture: Extract from the submission on democracy and climate change)"
   class="post_image"
 >}}
 
@@ -56,12 +56,12 @@ I have conducted research and written about human rights and labour rights while
 
 I facilitate awareness-raising and (informal) educational programmes and events. I also develop visual communication materials, such as posters.
 
-**Example: Public webinar on the human rights implications of the International Court of Justice's Advisory Opinion on climate change**
+**Example: Public webinar on the human rights implications of the International Court of Justice's Advisory Opinion on climate change** ([Link to the event page](https://gnhre.org/?p=18433))
 
 {{< figure
   src="FINAL_GNHREwebinarICJ_poster.png"
   alt="Poster for the event"
-  caption="I designed the poster for the event."
+  caption="I coordinated the communication and outreach efforts with other partner organisations. I also designed the poster for the event."
   class="post_image"
 >}}
 
