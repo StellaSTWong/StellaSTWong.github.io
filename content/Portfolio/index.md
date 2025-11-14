@@ -13,7 +13,7 @@ I develop and deliver training on human rights-related topics. I am also keen to
 {{< figure
   src="RGS-AnnualConference2021.jpg"
   alt="RGS Annual Conference 2021"
-  caption="Prof. Bill Taylor and I shared our research findings on how non-legal instruments were used by different actors, including trade unions, to seek redress for labour rights violations in Cambodia and Vietnam, and on how these instruments interacted with laws. (Picture: poster for the panel)"
+  caption="Prof. Bill Taylor and I shared our research findings on how non-legal instruments were used by different actors, including trade unions, to seek remedy for labour rights violations in Cambodia and Vietnam, and on how these instruments interacted with laws. (Picture: poster for the panel)"
   class="post_image"
 >}}
 
