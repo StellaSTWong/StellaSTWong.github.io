@@ -52,6 +52,12 @@ I have conducted research and written about human rights and labour rights while
 >}}
 
 
+**Example: My master's thesis focused on exploring corporate responsibility for climate change Loss and Damage in the global pursuit of climate justice** (written for the seminar ["Environmental Damage"](https://www.ivr.uzh.ch/en/institutsmitglieder/keller/Seminars/Seminare.html) at the University of Zurich, supervised by the team of Prof. Helen Keller, former judge at the European Court of Human Rights, and Dr. Corina Heri).
+
+ It drew on international cliamte change law and human rights law, as well as national cases in certain jurisdictions.
+
+
+
 # Public Awareness/Education (and visual communication)
 
 I facilitate awareness-raising and (informal) educational programmes and events. I also develop visual communication materials, such as posters.
