@@ -56,7 +56,7 @@ I have conducted research and written about human rights and labour rights while
 
 The world has witnessed what scholar Maxine Burkett described as a “justice paradox”: there is a lack of just solutions under the existing international legal regime for victims of climate change impacts “who are the most vulnerable yet the least responsible.”
 
-In my thesis, I explored the emerging legal avenues to seek climate justice, including climate litigation, by examining how international climate change law and human rights law, together with selected domestic jurisprudence, have responded to (and failed to respond to) the question of responsibility of business enterprises in the context of climate change-related loss and damage.
+In my thesis, I examined how international climate change law and human rights law have responded to (and failed to respond to) the question of responsibility of business enterprises in the context of climate change-related loss and damage. I also explored the emerging avenues to seek climate justice, including climate litigation in certain jurisdictions.
 
 
 # Public Awareness/Education (and visual communication)

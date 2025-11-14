@@ -6,11 +6,27 @@ title = 'Building a website as a non-techie (like me)'
 
 Technically speaking, I'm not a techie. I built my website by playing with Hugo (and Markdown and stuff like that) and using tools like Git Bash and Visual Studio Code. It's all *learning by doing*. The thing is, since I don't code on regularly, I simply forget things. So here's a quick brain dump and bookmarking (just so I can pick things up more quickly later on)!
 
-## Resources on markdown:
+# Resources on markdown:
 
 + basic markdown guide ([link](https://www.markdownguide.org/basic-syntax/)) 
 + workarounds for things that are not officially supported by Markdown e.g. adding comments and underlining texts. ([link](https://www.markdownguide.org/hacks/)) 
 
-## Resources on Hugo:
+# instruction for pushing changes to github using git bash:
+cd document
+cd Python
+cd st..github.io/
+git add .
+git status
+git commit .
+    just write a description
+    press Esc
+    press Shift and :
+    type x
+    type enter (then exit the commit page)
+git push
+
+
+# Resources on Hugo:
 
 + Hugo documentation
+
