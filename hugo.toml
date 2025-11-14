@@ -44,7 +44,7 @@ summaryLength = 1
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = true # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
@@ -117,3 +117,9 @@ summaryLength = 1
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 1
+    ordered = false
+    startLevel = 1

@@ -7,7 +7,7 @@ showFullContent = true
 Not sure where to start with sustainable living? Here are some selected places and community projects in and around Cork that I'm either involved in or, if not, curious to explore. Hope this list gives you some ideas to get started! (And it is by no means exhaustive.)
 
 
-## As friends of nature
+# As friends of nature
 
 + **Nature Network Ireland** ([web](https://naturenetworkireland.ie/)): They're doing some great community-based nature conservation and education projects in and around Cork City and beyond. For example, I've been volunteering for [the Beaumont Quarry project](https://naturenetworkireland.ie/what-we-do/restoring-nature/beaumont-quarry/), which is about regenerating and conserving the limestone quarry-turned wildlife area. (Keep an eye out for bats and foxes!)
 
@@ -33,7 +33,7 @@ Not sure where to start with sustainable living? Here are some selected places a
 
 + **The Environmental Forum** ([web](https://environmentalforum.ie/)): They organise a variety of environmentally-related [activities](https://environmentalforum.ie/projects/events/) in Cork City and County Cork, including workshops, walking tours and Bike Week cycling. I joined one of their walking tours, which was a good way to learn about the surrounding environment and its history.
 
-## As eco-conscious eaters and consumers
+# As eco-conscious eaters and consumers
 
 + **Cork Repair Café** ([web](https://corkrepaircafe.org/)): Before buying something new, why not try repairing what we have first? The repair café normally runs once a month. It's hosted either by Rebel Reads bookstore ([web](https://www.rebelreads.ie/)) or the Lough Community Centre ([map](https://maps.app.goo.gl/SV61MyjMuERHs5AKA)).
 
