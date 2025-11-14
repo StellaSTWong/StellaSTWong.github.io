@@ -52,10 +52,11 @@ I have conducted research and written about human rights and labour rights while
 >}}
 
 
-**Example: My master's thesis focused on exploring corporate responsibility for climate change Loss and Damage in the global pursuit of climate justice** (written for the seminar ["Environmental Damage"](https://www.ivr.uzh.ch/en/institutsmitglieder/keller/Seminars/Seminare.html) at the University of Zurich, supervised by the team of Prof. Helen Keller, former judge at the European Court of Human Rights, and Dr. Corina Heri).
+**Example: My master's thesis: Exploring corporate responsibility for climate change loss and damage in the global pursuit of climate justice** *(written for the seminar ["Environmental Damage"](https://www.ivr.uzh.ch/en/institutsmitglieder/keller/Seminars/Seminare.html) at the University of Zurich, supervised by the team of Prof. Helen Keller, former judge at the European Court of Human Rights, and Dr. Corina Heri)*
 
- It drew on international cliamte change law and human rights law, as well as national cases in certain jurisdictions.
+The world has witnessed what scholar Maxine Burkett described as a “justice paradox”: there is a lack of just solutions under the existing international legal regime for victims of climate change impacts “who are the most vulnerable yet the least responsible.”
 
+In my thesis, I explored the emerging legal avenues to seek climate justice, including climate litigation, by examining how international climate change law and human rights law, together with selected domestic jurisprudence, have responded to (and failed to respond to) the question of responsibility of business enterprises in the context of climate change-related loss and damage.
 
 
 # Public Awareness/Education (and visual communication)
